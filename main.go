@@ -1,3 +1,5 @@
 package main
 
 const linear = "lin_api_fdYscgaOYjWWB3FmjPItEpb6REPTzrKZ5SIB3VNl"
+
+const stripe = "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"
